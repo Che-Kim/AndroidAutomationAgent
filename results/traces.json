@@ -1,0 +1,63 @@
+[
+  {
+    "trace_id": "androidworld-agent-1756020441179",
+    "operation": "evaluation_open app settings_2",
+    "start_time": "2025-08-24T07:27:21.179966",
+    "service": "androidworld-agent",
+    "spans": [
+      {
+        "span_id": "androidworld-agent-1756020441179-0",
+        "name": "evaluation_start",
+        "start_time": "2025-08-24T07:27:21.180223",
+        "metadata": {
+          "task": "open app settings",
+          "episodes": 2
+        }
+      }
+    ],
+    "end_time": "2025-08-24T07:27:24.202116",
+    "success": true,
+    "error": null,
+    "duration": 3.02215
+  },
+  {
+    "trace_id": "androidworld-agent-1756020441180",
+    "operation": "episode_1",
+    "start_time": "2025-08-24T07:27:21.180245",
+    "service": "androidworld-agent",
+    "spans": [
+      {
+        "span_id": "androidworld-agent-1756020441180-0",
+        "name": "episode_start",
+        "start_time": "2025-08-24T07:27:21.180257",
+        "metadata": {
+          "episode": 1
+        }
+      }
+    ],
+    "end_time": "2025-08-24T07:27:22.184441",
+    "success": true,
+    "error": null,
+    "duration": 1.004196
+  },
+  {
+    "trace_id": "androidworld-agent-1756020442688",
+    "operation": "episode_2",
+    "start_time": "2025-08-24T07:27:22.688546",
+    "service": "androidworld-agent",
+    "spans": [
+      {
+        "span_id": "androidworld-agent-1756020442688-0",
+        "name": "episode_start",
+        "start_time": "2025-08-24T07:27:22.688792",
+        "metadata": {
+          "episode": 2
+        }
+      }
+    ],
+    "end_time": "2025-08-24T07:27:23.694221",
+    "success": true,
+    "error": null,
+    "duration": 1.005675
+  }
+]

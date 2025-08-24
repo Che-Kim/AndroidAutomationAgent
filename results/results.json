@@ -1,0 +1,34 @@
+{
+  "evaluation": {
+    "task_prompt": "open app settings",
+    "episodes": 2,
+    "episode_results": [
+      {
+        "action": "open_app",
+        "app_name": "settings",
+        "result": "Opened settings app",
+        "duration": 1.0036098957061768,
+        "success": true,
+        "episode_id": 1,
+        "task_prompt": "open app settings"
+      },
+      {
+        "action": "open_app",
+        "app_name": "settings",
+        "result": "Opened settings app",
+        "duration": 1.005096197128296,
+        "success": true,
+        "episode_id": 2,
+        "task_prompt": "open app settings"
+      }
+    ],
+    "summary": {
+      "total_episodes": 2,
+      "successful_episodes": 2,
+      "failed_episodes": 0,
+      "success_rate": 1.0,
+      "average_duration": 1.0043530464172363,
+      "total_time": 3.018646001815796
+    }
+  }
+}

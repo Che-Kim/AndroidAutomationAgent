@@ -1,0 +1,59 @@
+{
+  "episode_duration_{\"episode\": 1}": [
+    {
+      "timestamp": "2025-08-24T07:27:22.184248",
+      "value": 1.0036098957061768,
+      "labels": {
+        "episode": 1
+      }
+    }
+  ],
+  "episode_success_{\"episode\": 1}": [
+    {
+      "timestamp": "2025-08-24T07:27:22.184381",
+      "value": 1,
+      "labels": {
+        "episode": 1
+      }
+    }
+  ],
+  "episode_duration_{\"episode\": 2}": [
+    {
+      "timestamp": "2025-08-24T07:27:23.694113",
+      "value": 1.005096197128296,
+      "labels": {
+        "episode": 2
+      }
+    }
+  ],
+  "episode_success_{\"episode\": 2}": [
+    {
+      "timestamp": "2025-08-24T07:27:23.694184",
+      "value": 1,
+      "labels": {
+        "episode": 2
+      }
+    }
+  ],
+  "total_evaluation_time_{}": [
+    {
+      "timestamp": "2025-08-24T07:27:24.199023",
+      "value": 3.018646001815796,
+      "labels": {}
+    }
+  ],
+  "success_rate_{}": [
+    {
+      "timestamp": "2025-08-24T07:27:24.200189",
+      "value": 1.0,
+      "labels": {}
+    }
+  ],
+  "avg_duration_{}": [
+    {
+      "timestamp": "2025-08-24T07:27:24.201750",
+      "value": 1.0043530464172363,
+      "labels": {}
+    }
+  ]
+}
