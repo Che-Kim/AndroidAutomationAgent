@@ -1,4 +1,4 @@
-# QualGent Android Automation Agent Challenge
+# Android Automation Agent
 
 ## 🎯 Overview
 
