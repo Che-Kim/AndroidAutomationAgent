@@ -19,7 +19,7 @@ GENYMOTION_API_KEY=your-api-key-here
 
 **Note**: The system will use default values for all other configuration options
 
-### Minimal Steps to Reproduce
+### Steps
 
 1. **Clone & Setup**
    ```bash
