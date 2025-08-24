@@ -33,7 +33,7 @@ DEVICE_TEMPLATE="Google Pixel 2 - 8.0 - API 26 - 1080x1920"
 2. **Get Genymotion API Key**
    - Sign up: [https://cloud.geny.io](https://cloud.geny.io)
    - Create API key in Account → API Keys
-   - Update `.env` file
+   - Update `.env` file: Replace `your-actual-api-key-here` with your API key
 
 3. **Create Devices**
    ```bash
