@@ -15,11 +15,9 @@ An Android automation agent system that integrates with AndroidWorld and cloud A
 ```bash
 # Required
 GENYMOTION_API_KEY=your-api-key-here
-
-# Optional
-GENYMOTION_REGION=us-east-1
-DEVICE_TEMPLATE="Google Pixel 2 - 8.0 - API 26 - 1080x1920"
 ```
+
+**Note**: The system will use default values for all other configuration options
 
 ### Minimal Steps to Reproduce
 
