@@ -1,4 +1,4 @@
-# AndroidWorld Agent Challenge
+# QualGent Android Automation Agent Challenge
 
 ## 🎯 Overview
 
